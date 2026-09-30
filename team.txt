@@ -1,0 +1,3 @@
+Team members: Sunay and Sunay
+Favorite programming langauge: Python
+Team motto: Hello World!
