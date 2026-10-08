@@ -1,3 +1,3 @@
 Team members: A-skonnur and B-ekawley
 Favorite programming langauge: Python
-Team motto: Hello Team!
+Team motto: I love CS193!
